@@ -1,0 +1,238 @@
+* {
+    color: hsl(30, 10%, 34%);
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+}
+
+main {
+    margin: auto;
+    margin-top: -1.5%;
+    width: 375px;
+    background-color: hsl(0, 0%, 100%);
+    padding-bottom: 1%;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    padding: 0 10%;
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 2px;
+    margin-top: 10%;
+}
+
+#opening {
+    word-spacing: 2px;
+    margin: 0 5% 0 9%;
+    word-spacing: 1px;
+    line-height: 25px;
+}
+
+#timing {
+    background-color: hsl(330, 100%, 98%);
+    width: 65%;
+    margin: 9% 10%;
+    padding: 4% 7%;
+    border-radius: 5%;
+}
+
+#prep {
+    color: hsl(332, 51%, 32%);
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+.time-space {
+    color: hsl(332, 51%, 32%);
+    font-size: smaller;
+    margin: 0 0 10% -6%;
+}
+
+.text {
+    margin: -20% 0 7% 0;
+    font-size: medium;
+    margin-left: 8%;
+}
+
+#section {
+    margin: 0 10%;
+}
+
+.sub-heading {
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.Ingredients {
+    font-size: smaller;
+    margin-left: -7%;
+    margin-bottom: 5%;
+}
+
+.ingredient {
+    margin: -12% auto 7% -3%;
+    padding-right: 11%;
+    padding-left: 1%;
+} 
+
+.number {
+    color: hsl(14, 45%, 36%);
+    margin-left: -8%;
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+
+.instruction {
+    margin: -13% -2% 5% -2%;
+    line-height: 23px;
+}
+
+#nutrition-text {
+    padding-right: 2%;
+    line-height: 23px;
+    margin-bottom: 15%;
+}
+
+.nutrition {
+    margin-left: 9%;
+}
+
+.unit {
+    color: hsl(14, 45%, 36%);
+}
+
+#unit1 {
+    margin-left: 22%;
+}
+
+#unit2 {
+    margin-left: 28%;
+}
+
+#unit3 {
+    margin-left: 24%;
+}
+
+#unit4 {
+    margin-left: 33%;
+}
+
+hr {
+    opacity: 25%;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media only screen and (min-width: 600px) {
+    main {
+        margin-top: 4%;
+        width: 50%;
+        border-radius: 20px;
+    }
+    
+    img {
+        width: 88%;
+        margin: 5% auto 0 6%;
+        border-radius: 15px;
+    }
+
+    h1 {
+        padding: 0 6%;
+        letter-spacing: 2px;
+        margin-top: 5%;
+    }
+
+    #opening {
+        margin: -1% 4% 0 6%;
+        font-size: 90%;
+    }
+
+    #timing {
+        width: 75%;
+        margin: 5% 6%;
+        padding: 2% 7%;
+        border-radius: 15px;
+    }
+
+    #prep {
+        margin: 1% 0 10% -3%;
+    }
+
+    .time-space {
+        margin: -3% 0 15% -6%;
+    }
+
+    .text {
+        margin: -19% 0 5% 0;
+        margin-left: -2%;
+    }
+
+    #section {
+        margin: 0 6.5%;
+    }
+
+    .sub-heading {
+        font-weight: 400;
+    }
+
+    .Ingredients {
+        margin-left: -4%;
+    }
+
+    .ingredient {
+        margin: -9% auto 4% -2%;
+    } 
+
+    .number {
+        margin-left: -4%;
+    }
+
+    .instruction {
+        margin: -9% -2% 5% -1%;
+        font-size: 90%;
+    }
+
+    #nutrition-text {
+        padding-right: 0;
+        margin-bottom: 5%;
+        font-size: 90%;
+    }
+
+    .nutrition {
+        margin-left: 5%;
+    }
+
+    #unit1 {
+        margin-left: 38%;
+    }
+
+    #unit2 {
+        margin-left: 40.5%;
+    }
+
+    #unit3 {
+        margin-left: 39%;
+    }
+
+    #unit4 {
+        margin-left: 44%;
+    }
+}
