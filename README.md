@@ -9,8 +9,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 ### Links
 
-- Solution URL: [https://github.com/haclink/recipe-page-main](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [recipe-page-main](https://github.com/haclink/recipe-page-main)
+- Live Site URL: [challeng1](https://challeng1.netlify.app/)
 
 ### Built with
 
@@ -19,4 +19,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@haclink](https://www.frontendmentor.io/profile/haclink)
