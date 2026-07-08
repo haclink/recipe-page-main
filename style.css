@@ -34,7 +34,6 @@ h1 {
 }
 
 #opening {
-    word-spacing: 2px;
     margin: 0 5% 0 9%;
     word-spacing: 1px;
     line-height: 25px;
@@ -142,7 +141,7 @@ hr {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 37.5em) {
     main {
         margin-top: 4%;
         width: 50%;
@@ -174,15 +173,15 @@ hr {
     }
 
     #prep {
-        margin: 1% 0 10% -3%;
-    }
-
-    .time-space {
-        margin: -3% 0 15% -6%;
+        margin: 1% 0 19% -3%;
     }
 
     #prepList {
-        margin: 19% 0 -10% 0;
+        margin-bottom: -10%;
+    }
+
+    .time-space {
+        margin: -13% 0 14.8% -6%;
     }
 
     .text {
@@ -198,16 +197,16 @@ hr {
     }
 
     .Ingredients {
-        margin: 12.5% 0 0 -4%;
+        margin: 3.2% 0 0 -4%;
     }
 
     .ingredient {
-        margin: -9% auto 4% 2%;
+        margin: -9% auto 2% 2%;
         font-size: medium;
     } 
 
     .number {
-        margin: 13% 0 0 -4%;
+        margin: 5% 0 0 -4%;
     }
 
     .instruction {
